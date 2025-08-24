@@ -1,0 +1,6 @@
+CREATE TABLE kitaplar (
+    id SERIAL PRIMARY KEY,
+    baslik VARCHAR(255) NOT NULL,
+    yazar VARCHAR(255) NOT NULL,
+    odunc_alindi BOOLEAN DEFAULT FALSE
+);
