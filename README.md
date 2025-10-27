@@ -71,20 +71,9 @@ Ayrıca örnek veriler ile test edilmesi kolaylaştırılmıştır.
 - **Java 8+**  
 - **PostgreSQL**  
 - **JDBC**  
-- **Maven** (isteğe bağlı)  
-- **Swing / JavaFX** (arayüz için, projede kullanılıyorsa)
-
----
-
-## 👨‍💻 Katkıda Bulunma
-
-1. Bu repository’yi forklayın  
-2. Yeni bir dal oluşturun: `feature/yeni-ozellik`  
-3. Değişikliklerinizi yapın ve commit edin  
-4. Pull Request gönderin 🎉
 
 ---
 
 ## 📝 Lisans
 
-Bu proje açık kaynaklıdır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+Bu proje açık kaynaklıdır.
