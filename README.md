@@ -44,4 +44,14 @@ Raporlama ve istatistikler
 
 🗄️ Veritabanı
 
-library.sql dosyası, gerekli tabloları ve ö
+library.sql dosyası aşağıdaki tabloları içerir:
+
+kitaplar – Kitap bilgileri (ID, ad, yazar, kategori, stok vb.)
+
+kullanicilar – Kütüphane üyeleri
+
+odunc – Ödünç alınan kitap kayıtları
+
+kategori – Kitap kategorileri
+
+Ayrıca örnek veriler ile test edilmesi kolaylaştırılmıştır.
